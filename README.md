@@ -6,7 +6,7 @@ The objective of this project is to develop solutions to efficiently convert CSV
 
 ## Data Model Details
 
-![Data Model](data_model.png)
+![Data Model]([data_model.png](https://github.com/KokYenZein/File-Format-Converter/blob/main/images/data%20model%20details.png))
 
 The data model represents the structure of the CSV files obtained from the MySQL database. The goal is to convert this structured data into JSON format.
 
